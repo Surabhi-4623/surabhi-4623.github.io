@@ -3,7 +3,9 @@ This project involves a dynamic personal portfolio website that showcases my pro
 
 <h3>Key Features:</h3>
 🚀 Responsive design with dark mode
+</br>
 🚀 Clickable links and project showcase
+</br>
 🚀 Web analytics integration for user tracking
 
 <h3>Technologies Used:</h3>
